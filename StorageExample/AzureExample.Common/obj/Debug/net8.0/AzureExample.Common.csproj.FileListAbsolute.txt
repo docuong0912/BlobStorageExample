@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureExample.Common\bin\Debug\net8.0\AzureExample.Common.deps.json
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureExample.Common\bin\Debug\net8.0\AzureExample.Common.dll
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureExample.Common\bin\Debug\net8.0\AzureExample.Common.pdb
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureExample.Common\obj\Debug\net8.0\AzureExample.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureExample.Common\obj\Debug\net8.0\AzureExample.Common.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureExample.Common\obj\Debug\net8.0\AzureExample.Common.AssemblyInfo.cs
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureExample.Common\obj\Debug\net8.0\AzureExample.Common.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureExample.Common\obj\Debug\net8.0\AzureExample.Common.dll
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureExample.Common\obj\Debug\net8.0\refint\AzureExample.Common.dll
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureExample.Common\obj\Debug\net8.0\AzureExample.Common.pdb
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureExample.Common\obj\Debug\net8.0\ref\AzureExample.Common.dll

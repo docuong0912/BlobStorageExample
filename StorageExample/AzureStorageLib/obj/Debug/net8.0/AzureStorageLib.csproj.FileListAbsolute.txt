@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureStorageLib\obj\Debug\net8.0\AzureStorageLib.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureStorageLib\obj\Debug\net8.0\AzureStorageLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureStorageLib\obj\Debug\net8.0\AzureStorageLib.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureStorageLib\obj\Debug\net8.0\AzureStorageLib.AssemblyInfo.cs
+C:\Users\Asus\Desktop\azure blob storage\backend\StorageExample\AzureStorageLib\obj\Debug\net8.0\AzureStorageLib.csproj.CoreCompileInputs.cache
